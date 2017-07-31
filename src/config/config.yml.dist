@@ -1,0 +1,6 @@
+database:
+    host: localhost
+    user: xxx
+    password: xxx
+    database: starchat
+    dialect: mysql
